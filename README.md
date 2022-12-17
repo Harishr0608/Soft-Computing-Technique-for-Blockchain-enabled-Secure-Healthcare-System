@@ -1,2 +1,2 @@
-# Electronic-Health-Record-EHR-
-FULL STACK DEVELOPMENT PROJECT
+# Electronic-Health-Record-EHR
+FULL STACK PROJECT
